@@ -14,8 +14,8 @@
 <br />
 
 
-- 🌊 I’m currently working on [Wave](https://github.com/abhayc-glitch/wave), a Social Media Application (with Vert.x and React.js)
-- 🔭 I’m also working on a Plant Care App.
+- 🌊 I’m currently working on [Flux](https://github.com/abhayc-glitch/flux), a VC application (with Vert.x and React.js)
+- 🔭 I’m also working on a social media...
 - 🌱 I’m currently learning C++. 
 
 <br />
