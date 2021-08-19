@@ -14,7 +14,7 @@
 <br />
 
 
-- 🌊 I’m currently working on [Umbrella](https://github.com/abhayc-glitch/umbrella), a AI diary application (with Vert.x and React.js)
+- 🌊 I’m currently working on [Lumin](https://github.com/abhayc-glitch/umbrella), a AI diary application (with Vert.x and React.js)
 - 🔭 I’m also working on a social media...
 - 🌱 I’m currently learning C++. 
 
