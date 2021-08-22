@@ -39,4 +39,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abhayc-glitch&langs_count=8&theme=material-palenight" />
 </a>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhayc-glitch&repo=sanguine)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhayc-glitch&repo=CNN)](https://github.com/anuraghazra/github-readme-stats)
 
