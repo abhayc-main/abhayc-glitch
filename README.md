@@ -14,8 +14,8 @@
 <br />
 
 
-- 🌊 I’m currently working on [Lumin](https://github.com/abhayc-glitch/umbrella), a AI diary application (with Vert.x and React.js)
-- 🔭 I’m also working on a social media...
+- 🌊 I’m currently working on [Sanguine](https://github.com/abhayc-glitch/sanguine), a AI diary application (with Vert.x and React.js)
+- 🔭 I’m also working on a invite only social media...
 - 🌱 I’m currently learning C++. 
 
 <br />
@@ -38,8 +38,4 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abhayc-glitch&langs_count=8&theme=material-palenight" />
 </a>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhayc-glitch&repo=sanguine)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhayc-glitch&repo=CNN&theme=material-palenight")](https://github.com/anuraghazra/github-readme-stats)
 
