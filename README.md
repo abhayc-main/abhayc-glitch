@@ -41,5 +41,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhayc-glitch&repo=sanguine)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhayc-glitch&repo=CNN)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhayc-glitch&repo=CNN&theme=material-palenight")](https://github.com/anuraghazra/github-readme-stats)
 
