@@ -15,7 +15,7 @@
 
 
 - 🌊 I’m currently working on [Sanguine](https://github.com/abhayc-glitch/sanguine), a AI diary application (with Vert.x and React.js)
-- 🔭 I’m also working on a invite only social media...
+- 🔭 I’m also working on a Machine Learning Transformer...
 - 🌱 I’m currently learning C++. 
 
 <br />
