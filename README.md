@@ -14,7 +14,7 @@
 <br />
 
 
-- 🌊 I’m currently working on [Sanguine](https://github.com/abhayc-glitch/sanguine), a AI diary application (with Vert.x and React.js)
+- 🌊 I’m currently working on [Sanguine](https://github.com/abhayc-glitch/sanguine), a AI diary application (with Spring Boot and React Native)
 - 🔭 I’m also working on a Research Paper...
 - 🌱 I’m currently learning C++. 
 
