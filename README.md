@@ -14,7 +14,7 @@
 <br />
 
 
-- 🌊 I’m currently working on [Wave](https://github.com/abhayc-glitch/wave), a Pictorial Chat application (with Spring Boot and React Native)
+- 🌊 I’m currently working on [Wave](https://github.com/abhayc-glitch/wave), a Productivity application (with Express and React Native)
 - 🔭 I’m also working on a Research Paper...
 - 🌱 I’m currently learning C++. 
 
