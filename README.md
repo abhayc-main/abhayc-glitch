@@ -16,7 +16,7 @@
 
 - 🌊 I’m currently working on [Wave](https://github.com/abhayc-glitch/wave), a Productivity application (with Express and React Native)
 - 🔭 I’m also working on a Research Paper...
-- 🌱 I’m currently learning C++. 
+- 🦀 I'm currently learning Rust 
 
 <br />
 
