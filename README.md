@@ -14,7 +14,7 @@
 <br />
 
 
-- 🌊 I’m currently working on [Wave](https://github.com/abhayc-glitch/wave), a Productivity application (with Express and React Native)
+- 🌊 I’m currently working on [A machine learning model](https://github.com/abhayc-glitch/base-obj-model), with Tensorflow
 - 🔭 I’m also working on a Research Paper...
 - 🦀 I'm currently learning Rust 
 
