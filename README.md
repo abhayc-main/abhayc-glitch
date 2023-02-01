@@ -14,9 +14,8 @@
 <br />
 
 
-- 🌊 I’m currently working on [A machine learning model](https://github.com/abhayc-glitch/base-obj-model), with Tensorflow
-- 🔭 I’m also working on a Research Paper...
-- 🦀 I'm currently learning Rust 
+- 🌊 I’m currently working on [Full Stack Chat Application](https://github.com/abhayc-glitch/memo), with Tensorflow
+- 🦀 I'm currently learning Rust
 
 <br />
 
