@@ -5,17 +5,7 @@
 <a href="https://www.linkedin.com/in/abhay-c-565235210/">
   <img align="left" alt="Abhay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhay's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-<br />
-
-
-- 🌊 I’m currently working on [Full Stack Chat Application](https://github.com/abhayc-glitch/memo), with Tensorflow
-- 🦀 I'm currently learning Rust
 
 <br />
 
